@@ -1,0 +1,23 @@
+# This is the rept deps file.
+
+{
+    "defaults": {
+        "remote": "origin",
+        "remote_server": "git@github.com:",
+        "revision": "origin/master"
+    },
+    "dependencies": [
+        {
+            "name": "jblee123/rept_play_foo1",
+            "path": "../rept_play_foo1"
+        },
+        {
+            "name": "jblee123/rept_play_foo2",
+            "path": "../rept_play_foo2"
+        },
+        {
+            "name": "jblee123/rept_play_foo3",
+            "path": "../rept_play_foo3"
+        }
+    ]
+}
