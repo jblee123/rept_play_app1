@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo1", "..\foo1\foo1.vcxproj", "{575DCBFD-75D3-4BC5-98BB-DF315C5BF9B2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo1", "..\rept_play_foo1\foo1.vcxproj", "{575DCBFD-75D3-4BC5-98BB-DF315C5BF9B2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app1", "app1.vcxproj", "{FB021F5D-E078-4CA4-ABB8-A3041748FA62}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo2", "..\foo2\foo2.vcxproj", "{85B4C617-E514-4F5F-9E6A-6EF3CF14EA35}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo2", "..\rept_play_foo2\foo2.vcxproj", "{85B4C617-E514-4F5F-9E6A-6EF3CF14EA35}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo3", "..\foo3\foo3.vcxproj", "{E0F0C687-CD7C-4FA6-B4FA-06A2B63F58B6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "foo3", "..\rept_play_foo3\foo3.vcxproj", "{E0F0C687-CD7C-4FA6-B4FA-06A2B63F58B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
